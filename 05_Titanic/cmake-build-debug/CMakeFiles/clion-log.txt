@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja "DCMAKE_CXX_FLAGS=-Wall -Wextra -Wconversion -Wsign- conversion -pedantic" -G Ninja -S /Users/peiwenliao/Documents/Prog1/Lab-2023/05_Titanic -B /Users/peiwenliao/Documents/Prog1/Lab-2023/05_Titanic/cmake-build-debug
+CMake Warning:
+  Ignoring extra path from command line:
+
+   "/Users/peiwenliao/Documents/Prog1/Lab-2023/05_Titanic/cmake-build-debug/DCMAKE_CXX_FLAGS=-Wall -Wextra -Wconversion -Wsign- conversion -pedantic"
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/peiwenliao/Documents/Prog1/Lab-2023/05_Titanic/cmake-build-debug
