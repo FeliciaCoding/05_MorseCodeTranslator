@@ -1,3 +1,0 @@
-/Users/peiwenliao/Documents/Prog1/Lab-2023/05_Titanic/cmake-build-debug/CMakeFiles/05_Titanic.dir
-/Users/peiwenliao/Documents/Prog1/Lab-2023/05_Titanic/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/peiwenliao/Documents/Prog1/Lab-2023/05_Titanic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
